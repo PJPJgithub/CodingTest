@@ -12,7 +12,7 @@
 '''
 #import sys
 
-#sys.stdin = ("input.txt", 'r')
+#sys.stdin = open("input.txt", 'r')
 
 def find_smallest_constructor(N):
     # 가능한 모든 생성자를 반복합니다
