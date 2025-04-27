@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 2
 3 ABC
 5 /HTP
+=======
+7
+pop
+top
+push 123
+top
+pop
+top
+pop
+>>>>>>> 7a3744ada58fb2115c2118104a47dc5515fd3285
